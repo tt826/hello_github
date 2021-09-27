@@ -1,1 +1,2 @@
 aadga张福森
+host_fix修改了readme.txt文件
